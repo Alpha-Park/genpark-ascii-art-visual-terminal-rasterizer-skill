@@ -1,0 +1,6 @@
+name: genpark-ascii-art-visual-terminal-rasterizer-skill
+version: 1.0.0
+description: Grayscale pixel array rasterizer creating ASCII terminal representations and visual heatmaps for CLI agents
+command: python
+args:
+  - mcp_server.py
