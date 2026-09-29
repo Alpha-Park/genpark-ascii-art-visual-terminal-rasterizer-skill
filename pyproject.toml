@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-ascii-art-visual-terminal-rasterizer-skill"
+version = "1.0.0"
+description = "Grayscale pixel array rasterizer creating ASCII terminal representations and visual heatmaps for CLI agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
