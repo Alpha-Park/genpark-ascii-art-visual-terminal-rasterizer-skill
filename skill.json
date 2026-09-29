@@ -1,0 +1,20 @@
+{
+  "name": "genpark-ascii-art-visual-terminal-rasterizer-skill",
+  "version": "1.0.0",
+  "description": "Grayscale pixel array rasterizer creating ASCII terminal representations and visual heatmaps for CLI agents",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "ascii-rasterizer",
+    "terminal-vision",
+    "image-preview",
+    "cli-visualization",
+    "rasterizer",
+    "python-standard-library",
+    "agent-skills",
+    "text-ui",
+    "multimodal",
+    "developer-tools"
+  ]
+}
